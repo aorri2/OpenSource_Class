@@ -16,3 +16,4 @@ c = int(input("세 번째 숫자 입력: "))
 biggest = findMax(a,b,c)
 
 print(a,b,c, "중 가장 큰 수는", biggest,"입니다")
+print("test.py 수정입니다.")
